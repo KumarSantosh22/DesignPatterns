@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\Creational\DesignPattern.FluentInterface\DesignPattern.FluentInterface.csproj" />
+    <ProjectReference Include="..\..\Creational\DesignPattern.Singleton\DesignPattern.Singleton.csproj" />
   </ItemGroup>
 
 </Project>
