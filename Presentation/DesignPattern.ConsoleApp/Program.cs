@@ -5,3 +5,6 @@ fluentInterfaceDriver.Drive();
 
 SingletonDriver sinletonDriver = new SingletonDriver();
 sinletonDriver.Drive();
+
+FactoryDriver factoryDriver = new FactoryDriver();
+factoryDriver.Drive();
