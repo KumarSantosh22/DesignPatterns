@@ -3,5 +3,5 @@
 FluentInterfaceDriver fluentInterfaceDriver = new FluentInterfaceDriver();
 fluentInterfaceDriver.Drive();
 
-SinletonDriver sinletonDriver = new SinletonDriver();
+SingletonDriver sinletonDriver = new SingletonDriver();
 sinletonDriver.Drive();

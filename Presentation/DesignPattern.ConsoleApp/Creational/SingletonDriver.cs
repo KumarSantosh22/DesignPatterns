@@ -2,7 +2,7 @@
 
 namespace DesignPattern.ConsoleApp.Creational
 {
-    public class SinletonDriver
+    public class SingletonDriver
     {
         public void Drive()
         {
