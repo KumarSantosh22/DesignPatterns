@@ -6,4 +6,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="iterator.md" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="iterator.md" />
+  </ItemGroup>
+
 </Project>

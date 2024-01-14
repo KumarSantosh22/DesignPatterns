@@ -6,4 +6,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="memento.md" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="memento.md" />
+  </ItemGroup>
+
 </Project>

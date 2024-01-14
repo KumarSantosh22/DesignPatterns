@@ -6,4 +6,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="interpreter.md" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="interpreter.md" />
+  </ItemGroup>
+
 </Project>

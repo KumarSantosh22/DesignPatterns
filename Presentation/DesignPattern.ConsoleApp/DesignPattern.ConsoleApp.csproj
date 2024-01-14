@@ -8,10 +8,31 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\Behavioral\DesignPattern.ChainOfResponsiblity\DesignPattern.ChainOfResponsiblity.csproj" />
+    <ProjectReference Include="..\..\Behavioral\DesignPattern.Command\DesignPattern.Command.csproj" />
+    <ProjectReference Include="..\..\Behavioral\DesignPattern.Interpreter\DesignPattern.Interpreter.csproj" />
+    <ProjectReference Include="..\..\Behavioral\DesignPattern.Iterator\DesignPattern.Iterator.csproj" />
+    <ProjectReference Include="..\..\Behavioral\DesignPattern.Mediator\DesignPattern.Mediator.csproj" />
+    <ProjectReference Include="..\..\Behavioral\DesignPattern.Memento\DesignPattern.Memento.csproj" />
+    <ProjectReference Include="..\..\Behavioral\DesignPattern.Observer\DesignPattern.Observer.csproj" />
+    <ProjectReference Include="..\..\Behavioral\DesignPattern.State\DesignPattern.State.csproj" />
+    <ProjectReference Include="..\..\Behavioral\DesignPattern.Strategy\DesignPattern.Strategy.csproj" />
+    <ProjectReference Include="..\..\Behavioral\DesignPattern.Template\DesignPattern.Template.csproj" />
+    <ProjectReference Include="..\..\Behavioral\DesignPattern.Visitor\DesignPattern.Visitor.csproj" />
     <ProjectReference Include="..\..\Creational\DesignPattern.AbstractFactory\DesignPattern.AbstractFactory.csproj" />
+    <ProjectReference Include="..\..\Creational\DesignPattern.Builder\DesignPattern.Builder.csproj" />
     <ProjectReference Include="..\..\Creational\DesignPattern.Factory\DesignPattern.Factory.csproj" />
     <ProjectReference Include="..\..\Creational\DesignPattern.FluentInterface\DesignPattern.FluentInterface.csproj" />
+    <ProjectReference Include="..\..\Creational\DesignPattern.Prototype\DesignPattern.Prototype.csproj" />
     <ProjectReference Include="..\..\Creational\DesignPattern.Singleton\DesignPattern.Singleton.csproj" />
+    <ProjectReference Include="..\..\Structural\DesignPattern.Adapter\DesignPattern.Adapter.csproj" />
+    <ProjectReference Include="..\..\Structural\DesignPattern.Bridge\DesignPattern.Bridge.csproj" />
+    <ProjectReference Include="..\..\Structural\DesignPattern.Composite\DesignPattern.Composite.csproj" />
+    <ProjectReference Include="..\..\Structural\DesignPattern.Decorator\DesignPattern.Decorator.csproj" />
+    <ProjectReference Include="..\..\Structural\DesignPattern.Flyweight\DesignPattern.Flyweight.csproj" />
+    <ProjectReference Include="..\..\Structural\DesignPattern.Proxy\DesignPattern.Proxy.csproj" />
+    <ProjectReference Include="..\..\Structural\Facade\DesignPattern.Facade.csproj" />
+    <ProjectReference Include="..\DesignPattern.API\DesignPattern.API.csproj" />
   </ItemGroup>
 
 </Project>

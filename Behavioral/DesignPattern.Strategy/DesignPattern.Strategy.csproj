@@ -6,4 +6,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="strategy.md" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="strategy.md" />
+  </ItemGroup>
+
 </Project>

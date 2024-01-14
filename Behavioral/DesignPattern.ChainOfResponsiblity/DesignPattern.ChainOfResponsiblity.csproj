@@ -6,4 +6,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="cor.md" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="cor.md" />
+  </ItemGroup>
+
 </Project>

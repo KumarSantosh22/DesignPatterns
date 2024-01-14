@@ -6,4 +6,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="template.md" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="template.md" />
+  </ItemGroup>
+
 </Project>
