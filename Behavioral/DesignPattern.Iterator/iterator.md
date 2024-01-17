@@ -1,7 +1,0 @@
-﻿# Iterator Design Pattern
-
-## The Iterator Design Pattern is a Behavioral Design Pattern that allows sequential access to the elements of an aggregate object (i.e., collection) without exposing its underlying representation.
-
-## That means using the Iterator Design Pattern, we can access the elements of a collection sequentially without knowing its internal representations.
-
-## This pattern provides a uniform interface for traversing different data structures.

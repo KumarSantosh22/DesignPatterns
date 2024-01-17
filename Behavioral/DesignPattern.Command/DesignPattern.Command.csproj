@@ -6,12 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <None Remove="command.md" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Compile Include="command.md" />
-  </ItemGroup>
-
 </Project>

@@ -6,12 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <None Remove="observer.md" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Compile Include="observer.md" />
-  </ItemGroup>
-
 </Project>

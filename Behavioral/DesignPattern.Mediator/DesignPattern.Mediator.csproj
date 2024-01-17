@@ -6,12 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <None Remove="mediator.md" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Compile Include="mediator.md" />
-  </ItemGroup>
-
 </Project>

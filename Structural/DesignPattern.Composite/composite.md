@@ -1,5 +1,0 @@
-﻿# Composite Design Pattern 
-
-## Compose objects into tree structures to represent part-whole hierarchies. Composite lets clients treat individual objects and compositions of objects uniformly. 
-
-## The Composite Design Pattern is a structural pattern that allows us to compose objects into tree structures to represent part-whole hierarchies. This pattern lets clients treat individual objects and compositions of objects uniformly. That means the client can access the individual objects or the composition of objects in a uniform manner. It’s useful for representing hierarchical structures such as file systems, UI components, or organizational structures.
